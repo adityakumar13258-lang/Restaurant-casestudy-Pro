@@ -95,6 +95,15 @@ const menuItems: MenuItem[] = [
     image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBoJt9HnI-qfSiSz9hOWPcH8owj153AxqzQFOZIXR-OrpUmg-KbdWFLDtjCHNfZ3r2DFju1LICZYBP8r8ekGqLpayTfoi3BE3_oMx1RJormtyQfXBH-YTHm7DK-lKvTkQs7Fnbyb51HkPeY25B2JrUiUjOWxtYt1DxSmq7snVBS36OYUAfXrmVp1LVKO1WTgM_zQq_EhvpTz9keTgc_h0QAQNh1nE424ELeBff-UhFKH1HgWKZWVvp3U5RmUdq3HkfSfCQtGcVX',
     tags: ['veg'],
     category: 'Desserts'
+  },
+  {
+    id: '10',
+    name: 'Royal Mango Lassi',
+    price: 295,
+    description: 'Chilled yogurt drink blended with sweet Alphonso mangoes, saffron, and garnished with pistachios.',
+    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBoJt9HnI-qfSiSz9hOWPcH8owj153AxqzQFOZIXR-OrpUmg-KbdWFLDtjCHNfZ3r2DFju1LICZYBP8r8ekGqLpayTfoi3BE3_oMx1RJormtyQfXBH-YTHm7DK-lKvTkQs7Fnbyb51HkPeY25B2JrUiUjOWxtYt1DxSmq7snVBS36OYUAfXrmVp1LVKO1WTgM_zQq_EhvpTz9keTgc_h0QAQNh1nE424ELeBff-UhFKH1HgWKZWVvp3U5RmUdq3HkfSfCQtGcVX',
+    tags: ['veg', 'chef-special'],
+    category: 'Beverages'
   }
 ];
 
